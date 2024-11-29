@@ -1,0 +1,15 @@
+PyDoctor/
+│
+├── src/
+│   ├── __init__.py
+│   ├── troubleshoot.py
+│   └── pyqt_test.py
+│
+├── docs/
+│   ├── README.html
+│   └── README.txt
+│
+├── requirements.py
+├── LICENSE
+├── .gitignore
+└── README.md
